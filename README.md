@@ -17,3 +17,6 @@ https://sketchfab.com/3d-models/exhuast-muffler-3163e0c9ef224901a33568113f62582d
 
 Low Poly Metal Fence by Augustin Honnun on sketchfab.com:
 https://sketchfab.com/3d-models/low-poly-metal-fence-agustin-honnun-5458243c794b4b6bba523c63306c79c8
+
+Old rubbish Skip by Sousinho on sketchfab.com:
+https://sketchfab.com/3d-models/old-rubbish-skip-2f9aa03ede3a46a0888e76fed382667f
