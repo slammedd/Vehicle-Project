@@ -28,3 +28,9 @@ Additional sound effects from https://zapsplat.com
 
 Exploding Car (with Fire) (Mixed) by EFlexMusic on freesound.org:
 https://freesound.org/people/EFlexMusic/sounds/396270/
+
+TF2 Black Box Rocket Launcher by Jack M on sketchfab.com:
+https://sketchfab.com/3d-models/tf2-black-box-rocket-launcher-aabd79065f294aa18b0745292288960d
+
+Rocket 1S by SkarabeyDM on sketchfab.com:
+https://sketchfab.com/3d-models/rocket-1s-239f180146be41b3b43ffb5fdd42cd67
