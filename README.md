@@ -34,3 +34,9 @@ https://sketchfab.com/3d-models/tf2-black-box-rocket-launcher-aabd79065f294aa18b
 
 Rocket 1S by SkarabeyDM on sketchfab.com:
 https://sketchfab.com/3d-models/rocket-1s-239f180146be41b3b43ffb5fdd42cd67
+
+Ratatouille - Skylight by Alexander James Gate on sketchfab.com:
+https://sketchfab.com/3d-models/ratatouille-skylight-4260d940f0a0474bacd90a489a328f0b#download
+
+Air Con by Cesarsama on sketchfab.com:
+https://sketchfab.com/3d-models/air-con-2cd7c3632f5e44d6ad6b575a5871a79d#download
