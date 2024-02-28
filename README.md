@@ -40,3 +40,12 @@ https://sketchfab.com/3d-models/ratatouille-skylight-4260d940f0a0474bacd90a489a3
 
 Air Con by Cesarsama on sketchfab.com:
 https://sketchfab.com/3d-models/air-con-2cd7c3632f5e44d6ad6b575a5871a79d#download
+
+Double Door Metal by Maycho on sketchfab.com:
+https://sketchfab.com/3d-models/double-door-metal-1e53c52b012b448aa937e4fe551896f0
+
+Steel Gate by leukk on sketchfab.com:
+https://sketchfab.com/3d-models/steel-gate-b80d8fd8c69847ec932c347313be0a96
+
+Turniket SESAME on sketchfab.com:
+https://sketchfab.com/3d-models/turniket-sesame-5bed86b3fe6e4ca1814fd5b0c8e3d267
